@@ -14,8 +14,8 @@ GTab is an online guitar tablature viewer and player (JavaScript-based).
 - Select beats with the mouse and loop them to learn riffs and sequences.
 - Slow down the song for easy learning.
 
-### Desktop
+#### Desktop
 <img src="doc/screenshot.png" width="600"/>
 
-### Mobile
+#### Mobile
 <img src="doc/screenshot2.png" width="300"/>
